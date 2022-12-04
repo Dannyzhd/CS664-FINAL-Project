@@ -113,3 +113,5 @@ if __name__ == "__main__":
     destination = "F"
     budget = 30
     dijkstra(graph, source, destination, budget)
+
+print("hello")
