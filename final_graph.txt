@@ -24,7 +24,7 @@ graph = {
     "Franconia": {
         "Boston": {"Car": {"cost": 60.5, "time": 152}, "Plane": {"cost": 9999, "time": 9999}},
         "Manchester": {"Car": {"cost": 53, "time": 88}, "Plane": {"cost": 9999, "time": 9999}},
-        "Jay": {"Car": {"cost": 52, "time": 81}, "Plane": {"cost": 9999, "time": 9999}},
+        "Jay": {"Car": {"cost": 52, "time": 83}, "Plane": {"cost": 9999, "time": 9999}},
         "Stowe": {"Car": {"cost": 50, "time": 85}, "Plane": {"cost": 9999, "time": 9999}},
         "Albany": {"Car": {"cost": 67, "time": 224}, "Plane": {"cost": 9999, "time": 9999}},
         "Pisgah": {"Car": {"cost": 65, "time": 228}, "Plane": {"cost": 9999, "time": 9999}}
